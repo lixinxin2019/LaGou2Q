@@ -1,0 +1,16 @@
+#使用 yaml 来管理实例的属性
+mycat:
+  name: 小黑猫
+  color: 黑色
+  age:  1
+  gender: 母猫
+
+mydog:
+  name: 阿黄
+  color: 黄色
+  age:  2
+  gender: 母狗
+
+
+
+
